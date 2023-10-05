@@ -1,0 +1,95 @@
+[
+    {
+      "isVirtualRestaurant" : false,
+      "location" : "--------------",
+      "deliveryCharges" : 0,
+      "ratingCount" : 0,
+      "isRestInfo" : false,
+      "totalPoints" : 0,
+      "tempClosed" : false,
+      "isFavoriteRestaurant" : false,
+      "liveTracking" : false,
+      
+      "restaurantName" : "--------------",
+      "deliveryTime" : 60,
+      "isPickup" : false,
+      "cuisines" : [
+        "Biryani",
+        "Indian",
+        "South Indian"
+      ],
+      "amountPerPerson" : 0,
+      "closingTime" : "09 Nov 2022 11:59 PM",
+      "isFoodSubscription" : false,
+      "isDelivery" : true,
+      "restaurantId" : "6314",
+      "isBogo" : false,
+      "restaurantStatus" : true,
+      "restaurantRating" : 0,
+      "minimumOrder" : 30,
+      "restaurantDistance" : 1.99
+    },
+    {
+      "isVirtualRestaurant" : false,
+      "location" : "--------------",
+      "deliveryCharges" : 5,
+      "ratingCount" : 11,
+      "isRestInfo" : false,
+      "totalPoints" : 0,
+      "tempClosed" : false,
+      "isFavoriteRestaurant" : false,
+      "liveTracking" : false,
+      
+      "restaurantName" : "--------------",
+      "deliveryTime" : 60,
+      "isPickup" : false,
+      "cuisines" : [
+        "Biryani",
+        "Confectionery",
+        "Iftar Meal",
+        "Indian"
+      ],
+      "amountPerPerson" : 0,
+      "closingTime" : "09 Nov 2022 04:00 AM",
+      "isFoodSubscription" : false,
+      "isDelivery" : true,
+      "offerTags" : "50",
+      "restaurantId" : "111",
+      "isBogo" : false,
+      "restaurantStatus" : true,
+      "restaurantRating" : 3.72,
+      "minimumOrder" : 0,
+      "restaurantDistance" : 5.79
+    },
+    {
+      "isVirtualRestaurant" : false,
+      "location" : "--------------",
+      "deliveryCharges" : 10,
+      "ratingCount" : 36,
+      "isRestInfo" : false,
+      "totalPoints" : 0,
+      "tempClosed" : false,
+      "isFavoriteRestaurant" : false,
+      "liveTracking" : true,
+      
+      "restaurantName" : "--------------",
+      "deliveryTime" : 60,
+      "isPickup" : false,
+      "cuisines" : [
+        "Breakfast",
+        "Fast Food",
+        "Iftar Meal",
+        "Italian"
+      ],
+      "amountPerPerson" : 0,
+      "closingTime" : "09 Nov 2022 04:00 AM",
+      "isFoodSubscription" : false,
+      "isDelivery" : true,
+      "restaurantId" : "2445",
+      "isBogo" : true,
+      "restaurantStatus" : true,
+      "restaurantRating" : 3.5,
+      "minimumOrder" : 30,
+      "restaurantDistance" : 2.71
+    }
+  ]

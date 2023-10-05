@@ -1,0 +1,34 @@
+{
+    "extTransactionId": "4333060598532",
+    "adsDto": [
+      {
+        "position": 0,
+        "ads": [
+          {
+            "adId" : 1
+          },
+          {
+            "adId" : 2
+          },
+          {
+            "adId" : 3
+          },
+          {
+            "adId" : 1
+          },
+          {
+            "adId" : 5
+          },
+          {
+            "adId" : 7
+          },
+          {
+            "adId" : 9
+          },
+          {
+            "adId" : 11
+          }
+        ]
+      }
+    ]
+}

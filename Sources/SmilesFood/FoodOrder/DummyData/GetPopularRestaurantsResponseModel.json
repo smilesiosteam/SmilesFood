@@ -1,0 +1,132 @@
+{
+  "sectionName" : "---------",
+  "restaurants" : [
+    {
+      "isVirtualRestaurant" : false,
+      "location" : "---------",
+      "deliveryCharges" : 0,
+      "restaurantStatusMessage" : "---------",
+      "ratingCount" : 0,
+      "isRestInfo" : false,
+      "totalPoints" : 0,
+      "tempClosed" : false,
+      "isFavoriteRestaurant" : false,
+      "liveTracking" : false,
+      
+      "restaurantName" : "---------",
+      "deliveryTime" : 60,
+      "cuisines" : [
+        "Biryani",
+        "Indian",
+        "South Indian"
+      ],
+      "amountPerPerson" : 0,
+      "closingTime" : "09 Nov 2022 11:59 PM",
+      "isFoodSubscription" : false,
+      "restaurantId" : "6314",
+      "isBogo" : false,
+      "restaurantStatusColorMessage" : "Open now",
+      "restaurantStatus" : true,
+      "restaurantRating" : 0,
+      "restaurantStatusType" : "OPEN",
+      "minimumOrder" : 30,
+      "restaurantDistance" : 0
+    },
+    {
+      "isVirtualRestaurant" : false,
+      "location" : "Business Bay",
+      "deliveryCharges" : 5,
+      "restaurantStatusMessage" : "---------",
+      "ratingCount" : 11,
+      "isRestInfo" : false,
+      "totalPoints" : 0,
+      "tempClosed" : false,
+      "isFavoriteRestaurant" : false,
+      "liveTracking" : false,
+      
+      "restaurantName" : "---------",
+      "deliveryTime" : 60,
+      "cuisines" : [
+        "Biryani",
+        "Confectionery",
+        "Iftar Meal",
+        "Indian"
+      ],
+      "amountPerPerson" : 0,
+      "closingTime" : "09 Nov 2022 04:00 AM",
+      "isFoodSubscription" : false,
+      "restaurantId" : "111",
+      "isBogo" : false,
+      "restaurantStatusColorMessage" : "Open now",
+      "restaurantStatus" : true,
+      "restaurantRating" : 3.72,
+      "restaurantStatusType" : "OPEN",
+      "minimumOrder" : 0,
+      "restaurantDistance" : 0
+    },
+    {
+      "isVirtualRestaurant" : false,
+      "location" : "---------",
+      "deliveryCharges" : 10,
+      "restaurantStatusMessage" : "Open now 04:00 am - 04:00 am",
+      "ratingCount" : 36,
+      "isRestInfo" : false,
+      "totalPoints" : 0,
+      "tempClosed" : false,
+      "isFavoriteRestaurant" : false,
+      "liveTracking" : true,
+      
+      "restaurantName" : "---------",
+      "deliveryTime" : 60,
+      "cuisines" : [
+        "---------",
+        "---------",
+        "---------",
+        "---------"
+      ],
+      "amountPerPerson" : 0,
+      "closingTime" : "09 Nov 2022 04:00 AM",
+      "isFoodSubscription" : false,
+      "restaurantId" : "2445",
+      "isBogo" : true,
+      "restaurantStatusColorMessage" : "Open now",
+      "restaurantStatus" : true,
+      "restaurantRating" : 3.5,
+      "restaurantStatusType" : "OPEN",
+      "minimumOrder" : 30,
+      "restaurantDistance" : 0
+    },
+    {
+      "isVirtualRestaurant" : false,
+      "location" : "Al Karama",
+      "deliveryCharges" : 5,
+      "restaurantStatusMessage" : "Open now 04:00 am - 04:00 am",
+      "ratingCount" : 1,
+      "isRestInfo" : false,
+      "totalPoints" : 0,
+      "tempClosed" : false,
+      "isFavoriteRestaurant" : false,
+      "liveTracking" : false,
+      
+      "restaurantName" : "---------",
+      "deliveryTime" : 45,
+      "cuisines" : [
+        "Asian",
+        "Chinese",
+        "Oriental"
+      ],
+      "amountPerPerson" : 0,
+      "closingTime" : "09 Nov 2022 04:00 AM",
+      "isFoodSubscription" : false,
+      "restaurantId" : "2854",
+      "isBogo" : false,
+      "restaurantStatusColorMessage" : "Open now",
+      "restaurantStatus" : true,
+      "restaurantRating" : 5,
+      "restaurantStatusType" : "OPEN",
+      "minimumOrder" : 75,
+      "restaurantDistance" : 0
+    }
+  ],
+  "isLastPageReached" : false
+}
